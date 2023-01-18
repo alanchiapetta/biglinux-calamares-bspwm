@@ -1,9 +1,9 @@
 # Maintainer: Barnabé <barnabedikartola@gmail.com>
 
-pkgname=biglinux-calamares-base
+pkgname=biglinux-calamares-bspwm
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
-pkgdesc="Calamares configs for BigLinux Community Base"
+pkgdesc="Calamares configs for BigLinux Community bspwm"
 arch=('any')
 url="https://github.com/biglinux/$pkgname"
 license=('GPL3')
