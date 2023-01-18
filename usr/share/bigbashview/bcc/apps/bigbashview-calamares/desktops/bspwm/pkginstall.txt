@@ -12,3 +12,6 @@ pcmanfm-gtk3
 pulsemixer
 ranger
 lxdm
+nerd-fonts-jetbrains-mono
+zsh
+feh
