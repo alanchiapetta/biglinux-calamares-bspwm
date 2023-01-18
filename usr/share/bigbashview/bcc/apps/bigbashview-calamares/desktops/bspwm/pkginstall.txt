@@ -11,3 +11,4 @@ gnome-text-editor
 pcmanfm-gtk3
 pulsemixer
 ranger
+lxdm
