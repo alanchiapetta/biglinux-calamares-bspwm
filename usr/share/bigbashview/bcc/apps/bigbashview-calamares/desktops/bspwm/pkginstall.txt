@@ -1,3 +1,13 @@
 biglinux-skel-bspwm
 catppuccin-wallpapers-git
-xpto
+bspwm
+sxhkd
+polybar
+rofi
+dunst
+alacritty
+cmus
+gnome-text-editor
+pcmanfm-gtk3
+pulsemixer
+ranger
