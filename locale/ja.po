@@ -19,5 +19,5 @@ msgstr ""
 msgid "BSPWM"
 msgstr "ティッカー"
 
-msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
-msgstr "グラフィカルインターフェイスのない基本的なbiglinuxパッケージのみ。"
+msgid "Um gerenciador de janelas lado a lado simples, leve, mas poderoso"
+msgstr "シンプルで軽量でありながら強力なサイドバイサイドウィンドウマネージャー"

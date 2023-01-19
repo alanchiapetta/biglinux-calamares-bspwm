@@ -19,5 +19,5 @@ msgstr ""
 msgid "BSPWM"
 msgstr "BSPWM"
 
-msgid "Apenas pacotes basicos do biglinux sem Interface Gráfica."
-msgstr "Solo pacchetti biglinux di base senza interfaccia grafica."
+msgid "Um gerenciador de janelas lado a lado simples, leve, mas poderoso"
+msgstr "Un gestore di finestre affiancate semplice, leggero ma potente"
