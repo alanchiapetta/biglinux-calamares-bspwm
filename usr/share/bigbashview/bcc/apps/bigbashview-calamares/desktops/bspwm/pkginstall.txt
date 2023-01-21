@@ -52,4 +52,3 @@ picom-ibhagwan-git
 oranchelo-icon-theme
 zsh
 nerd-fonts-jetbrains-mono
-
