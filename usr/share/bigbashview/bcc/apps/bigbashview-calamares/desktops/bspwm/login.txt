@@ -1,1 +1,1 @@
-lxdm
+lightdm
