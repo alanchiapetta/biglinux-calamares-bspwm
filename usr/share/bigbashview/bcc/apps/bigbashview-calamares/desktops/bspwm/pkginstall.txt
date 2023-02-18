@@ -20,7 +20,6 @@ neovim
 numlockx
 pcmanfm-gtk3
 polkit-gnome
-polybar
 pulsemixer
 pavucontrol
 ranger
@@ -55,3 +54,4 @@ lightdm
 lightdm-slick-biglinux-greeter
 lightdm-gtk-greeter
 lightdm-webkit2-greeter
+gdu
