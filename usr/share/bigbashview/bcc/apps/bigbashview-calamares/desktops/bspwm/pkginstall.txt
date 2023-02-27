@@ -33,7 +33,6 @@ xfce4-terminal
 zathura
 brightnessctl
 polybar
-lxappearance
 nitrogen
 arandr
 htop
@@ -42,7 +41,6 @@ xcolor
 betterlockscreen
 catppuccin-cursors-mocha
 catppuccin-gtk-theme-mocha
-catppuccin-wallpapers-git
 papirus-folders-catppuccin-git
 ttf-icomoon-feather
 ksuperkey
@@ -55,3 +53,6 @@ lightdm-slick-biglinux-greeter
 lightdm-gtk-greeter
 lightdm-webkit2-greeter
 gdu
+ttf-iosevka-nerd
+xorg-xinput
+xsettingsd
