@@ -58,3 +58,4 @@ xorg-xinput
 xsettingsd
 lxappearance
 sync-kde-and-gtk-places
+biglinux-settings
