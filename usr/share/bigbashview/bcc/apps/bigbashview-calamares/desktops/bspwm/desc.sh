@@ -17,5 +17,5 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-calamares-base
 
 
-DESKTOP_NAME_DESC=$"BSPWM"
+DESKTOP_NAME_DESC="BSPWM"
 DESKTOP_INFO_DESC=$"Um gerenciador de janelas lado a lado simples, leve, mas poderoso"
