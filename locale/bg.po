@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "BSPWM"
-msgstr "БСПВМ"
-
 msgid "Um gerenciador de janelas lado a lado simples, leve, mas poderoso"
 msgstr "Прост, лек, но мощен мениджър на прозорци един до друг"
