@@ -1,3 +1,4 @@
+biglinux-skel-bspwm
 xorg-server
 xorg-font-util
 xorg-setxkbmap
